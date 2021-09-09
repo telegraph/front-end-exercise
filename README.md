@@ -27,7 +27,7 @@ You should spend around one and a half hours on this task. If you do not complet
 * Application should be fully responsive
 * Pass the [ACs](#scroll-acceptance-criteria)
 * Ensure code is unit tested. We've set this up with [Jest](https://jestjs.io/) but feel free to use whatever you like
-* Comments should be called once the DOM is ready via [this endpoint](https://my-json-server.typicode.com/telegraph/front-end-exercise-contractors/comments). This call should be made client-side and injected with JavaScript.
+* Comments should be called once the DOM is ready via [this endpoint](https://my-json-server.typicode.com/telegraph/frontend-exercise/comments). This call should be made client-side and injected with JavaScript.
 * Keep your JavaScript vanilla please :icecream:
 
 ### :mag_right: What we are looking for
@@ -41,7 +41,7 @@ You should spend around one and a half hours on this task. If you do not complet
 
 ### :open_file_folder: Data
 
-[https://my-json-server.typicode.com/telegraph/front-end-exercise-contractors/comments](https://my-json-server.typicode.com/telegraph/front-end-exercise-contractors/comments)
+[https://my-json-server.typicode.com/telegraph/frontend-exercise/comments](https://my-json-server.typicode.com/telegraph/frontend-exercise/comments)
 
 ### :art: Designs
 
