@@ -1,6 +1,6 @@
-# Front-End Contractor Test
+# Front-End Coding Test
 
-:wave: Welcome to The Telegraph front-end candidate test for contractors
+:wave: Welcome to The Telegraph front-end candidate test
 
 - [Task](#wrench-task)
 	- [Requirements](#mega-requirements)
