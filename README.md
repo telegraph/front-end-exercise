@@ -11,33 +11,31 @@
 - [Acceptance criteria](#scroll-acceptance-criteria)
 - [Submitting your code](#mailbox_with_mail-submitting-your-code)
 
-## :wrench: Task 
+## :wrench: Task
 
 We would like you to build a responsive commenting component as per the included designs. You should meet the [ACs](#scroll-acceptance-criteria).
 
 Some basic front-end tooling ([webpack](https://webpack.js.org/) for JavaScript compilation and [PostCSS](https://postcss.org/) for CSS concatenation) has been provided.
 
-Your code should work in modern browsers such as Chrome, Firefox and Edge. Do not worry about supporting IE11 or below.
-
-You should spend around one and a half hours on this task. If you do not complete the task in time please submit with a list of what you would have done with more time. Feel free to be specific and write `// TODO`s throughout your code.
+You are not expected to complete the task, however you can write `// TODO`s throughout your code.
 
 ### :mega: Requirements
 
 * Match the [designs](#art-designs) as closely as possible, filling in any gaps as you deem fit
-* Application should be fully responsive
+
+### :mega: Requirements
+* Application should be somewhat responsive (don't worry about this too much)
 * Pass the [ACs](#scroll-acceptance-criteria)
-* Ensure code is unit tested. We've set this up with [Jest](https://jestjs.io/) but feel free to use whatever you like
 * Comments should be called once the DOM is ready via [this endpoint](https://my-json-server.typicode.com/telegraph/frontend-exercise/comments). This call should be made client-side and injected with JavaScript.
 * Keep your JavaScript vanilla please :icecream:
 
 ### :mag_right: What we are looking for
 
 * An understanding of web fundamentals
+* Ability to translate designs into code
 * A consistent and scalable approach to the test
 * An understanding of accessibility
 * Reasoning about SEO
-* Solid unit testing
-* Ability to translate designs into code
 
 ### :open_file_folder: Data
 
@@ -82,15 +80,3 @@ Scenario: Order comments by likes
 	Then then the comments should display in order of most likes
 	And the comments should show most liked first
 ```
-
-## :mailbox_with_mail: Submitting your code
-
-:no_entry_sign: Please don't fork this repository as the links will be accessible to other candidates. 
-
-:heavy_check_mark: Please clone it into your own repo and send us a link. 
-
-:heavy_check_mark: We should be able to build and run your application locally.
-
-:heavy_check_mark: Please also feedback on how you found the test - what did you like/not like about it?
-
-:heavy_check_mark: Feel free to send us any other additional notes. E.g. what you would have done with more time.
